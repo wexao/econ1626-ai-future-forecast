@@ -19,4 +19,13 @@
 - [ ] Read teacher's `economic-growth-projection` repo for HTML structure.
 - [ ] Write forecast analysis.
 - [ ] Build `forecast.html`.
+
+
+## Week 10 Lecture: Combinatorial Innovation & Robotics
+- **Core theory**: Technology is built from technologies (W. Brian Arthur). Combining existing technologies creates exponential new possibilities.
+- **Digital composability**: Digital tech (AI, blockchain) is easy to recombine because it's just 0s and 1s. Physical robots are harder because of atoms and physics.
+- **AI + Blockchain**: AI is smart but unpredictable; blockchain is dumb but deterministic. Smart contracts can act as a safety gate for AI.
+- **AI + Robotics**: The big frontier. LLMs give robots reasoning. Companies like Figure are building humanoid robots that learn from world models. Main bottleneck: lack of physical sensor data (touch, weight).
+- **Key implication for Assessment 3**: AI will not just affect digital jobs; through robotics it will reshape physical labour (cleaning, care work). This aligns with Industry Week panelist Dave's argument that AI will augment rather than replace human work.
+- **Potential forecast direction**: Predict how AI + robotics will change Australia's care economy (nursing, aged care) by 2030. Combine task-level analysis with policy options.
  
